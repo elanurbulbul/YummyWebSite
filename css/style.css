@@ -1,6 +1,21 @@
+
 .fw-700{
     font-weight: 700 !important;
 }
 .font-s28px{
     font-size: 28px;
+}
+.h-90px{
+    height: 90px;
+}
+.bg-section{
+ background-color: #eee;
+}
+.font-amatic {
+    font-family: "Amatic SC", cursive;
+    font-weight: 700;
+    font-style: normal;
+}
+.font-open-sans{
+    font-family: "Open Sans", sans-serif;
 }
