@@ -1,15 +1,17 @@
-
+body > *{
+    font-family: "Open Sans", serif;
+}
+p{
+    color: #4f4f5a;
+}
 .fw-700{
     font-weight: 700 !important;
 }
 .font-s28px{
     font-size: 28px;
 }
-.h-90px{
-    height: 90px;
-}
-.bg-section{
- background-color: #eee;
+.font-s64px{
+    font-size: 64px;
 }
 .font-amatic {
     font-family: "Amatic SC", cursive;
@@ -19,3 +21,16 @@
 .font-open-sans{
     font-family: "Open Sans", sans-serif;
 }
+.w-60{
+   width: 60%; 
+}
+.h-90px{
+    height: 90px;
+}
+.bg-section{
+    background-color: #eee;
+}
+main section:nth-child(1){
+    height: calc(100vh - 90px);
+}
+
